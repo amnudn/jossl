@@ -1,6 +1,6 @@
 Should run codex with
 
-    codex --sandbox workspace-write --ask-for-approval on-request -c approvals_reviewer=auto_review # R package 
+    codex --sandbox workspace-write --ask-for-approval on-request -c approvals_reviewer=auto_review 
 
 # R package
 This repository contain draft code for an R package implementing the
